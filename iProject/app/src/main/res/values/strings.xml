@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iProject</string>
+    <string name="ConnectButton">Connect</string>
+    <string name="StartButton">Cooking</string>
+    <string name="emptiness"></string>
+    <string name="BrickName">ip</string>
+</resources>
